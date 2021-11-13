@@ -35,6 +35,7 @@ Sample Input 2
 17
 
 Sample Output 2
+
 still running
 
 Sample Input 3
@@ -51,18 +52,4 @@ Sample Input 3
 Sample Output 3
 15
 
-
-Input
-
-171819202122232425262728
-            for(int i=0;i<n-2;i++){
-                count = count+(arr[2*i+1]-arr[2*i]);
-            }
-            System.out.println(count);
-        }
-
-    }
-}
-
-Output
 
